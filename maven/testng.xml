@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="dec23_testNGARRocation.NewTest1"/>
+      <class name="dec23_testNGARRocation.NewTest2"/>
+      <class name="dec23_testNGARRocation.NewTest3"/>
+            <class name="dec23_testNGARRocation.NewTest4"/>
+      
+   <!--   <class name="dec23_testNGARRocation.validation2"/>
+      <class name="dec23_testNGARRocation.validation3"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
